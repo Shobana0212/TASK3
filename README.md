@@ -6,9 +6,9 @@ Use SQL queries to extract, analyze, and summarize structured data from an eComm
 
 🛠️ Tools Used
 
-Database: MySQL (can be adapted to PostgreSQL or SQLite)
+Database: MySQL 
 
-Interface: MySQL CLI / MySQL Workbench
+Interface: MySQL Workbench
 
 Platform: GitHub
 
